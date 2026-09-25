@@ -299,7 +299,7 @@ Este projeto foi desenvolvido para fins de estudo, aprendizado e composição de
 
 🏎️ **Dashboard da Porsche com Agentes de IA**
 
-O arquivo HTML da dashboard está disponível neste repositório e pode ser executado diretamente pelo navegador.
+(https://maisamendestech.github.io/Dashboard_da_Porsche_com_Agentes_de_IA/)
 
 ---
 
