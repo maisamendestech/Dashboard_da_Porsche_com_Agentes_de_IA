@@ -231,12 +231,6 @@ O objetivo não foi substituir o processo analítico, mas utilizar a IA como uma
 
 ---
 
-## 📸 Demonstração
-
-![Preview da Dashboard da Porsche](assets/video/video_porsche.mp4)
-
----
-
 ## 📈 Principais Insights
 
 A dashboard permite identificar diferentes padrões a partir dos filtros e do recorte selecionado, como:
